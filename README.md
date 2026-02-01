@@ -268,3 +268,10 @@ https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-S
 ---
 
 *The best time to implement defensive architecture is before the crisis, not after.*
+
+
+---
+
+**Part of:** [AI Safety & Systems Architecture Research Index](https://github.com/leenathomas01/research-index)
+
+---
