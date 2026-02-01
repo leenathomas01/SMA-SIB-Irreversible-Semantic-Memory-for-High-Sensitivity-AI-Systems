@@ -272,6 +272,18 @@ https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-S
 
 ---
 
-**Part of:** [AI Safety & Systems Architecture Research Index](https://github.com/leenathomas01/research-index)
+---
+
+## Related Work
+
+This repository addresses privacy and governance challenges in AI memory systems.
+
+**For a complete catalog of related research:**  
+📂 [AI Safety & Systems Architecture Research Index](https://github.com/leenathomas01/research-index)
+
+**Thematically related:**
+- [The Continuity Problem](https://github.com/leenathomas01/The-Continuity-Problem) — Why governance must precede memory
+- [Power Asymmetry Restraint Protocol (PARP)](https://github.com/leenathomas01/Power-Asymmetry-Restraint-Protocol-PARP) — Governance under opacity
+- [Doctrine of Externalization](https://github.com/leenathomas01/doctrine-of-externalization) — Trust through adversarial layers
 
 ---
