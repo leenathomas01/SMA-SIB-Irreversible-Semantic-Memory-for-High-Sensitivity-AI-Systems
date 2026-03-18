@@ -297,7 +297,7 @@ Store only the hard ArgMin index. Probability distributions leak information abo
 codebook.update(user_data)  # The codebook becomes the memory
 ```
 
-The codebook is frozen at deployment. Fine-tuning on user data encodes user specifics into the model weights. See the [Semantic Non-Adaptation Principle](Semantic_Non-Adaptation_Principle.md).
+The codebook is frozen at deployment. Fine-tuning on user data encodes user specifics into the model weights. See the [Semantic Non-Adaptation Principle](.Semantic_Non-Adaptation_Principle.md).
 
 ### No Temporary Storage
 
