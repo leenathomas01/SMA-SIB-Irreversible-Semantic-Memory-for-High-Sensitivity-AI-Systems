@@ -10,6 +10,7 @@ SMA-SIB defines an architecture for AI systems that must operate in high-risk en
 
 This architecture does not rely on access control, encryption, or policy enforcement. Reconstruction is impossible because the information is never retained in representable form.
 
+![Semantic Irreversibility Boundary](irreversibility-boundary.png)
 ---
 
 ## Core Invariant
