@@ -190,7 +190,14 @@ https://github.com/leenathomas01/SMA-SIB
 
 ## Note on Related Work
 
-SMA-SIB addresses environments where reconstruction must be structurally impossible. Separate work explores architectures where controlled reconstruction is permitted under different constraints. These represent distinct design regimes, not points on a shared continuum. SMA-SIB is not a lower-fidelity variant of reconstructive systems — it eliminates reconstructable representation entirely.
+
+SMA-SIB addresses environments where reconstruction must be structurally impossible. Separate work explores architectures where controlled reconstruction is permitted under different constraints.
+
+These represent distinct design regimes, not points on a shared continuum. SMA-SIB is not a lower-fidelity variant of reconstructive systems — it eliminates reconstructable representation entirely.
+
+**For a complete catalog of related research:**  
+📂 [Research Index](https://github.com/leenathomas01/research-index)
+
 
 ---
 
